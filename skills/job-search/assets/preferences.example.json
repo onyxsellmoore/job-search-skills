@@ -1,0 +1,92 @@
+{
+  "schema_version": 1,
+  "function": "marketing",
+  "function_other": "",
+  "identity": {
+    "full_name": "Jordan Ellis",
+    "phone": "614-555-0142",
+    "linkedin_url": "https://www.linkedin.com/in/jordan-ellis-example",
+    "current_employer": "Example Retail Group",
+    "current_title": "Marketing Intern",
+    "years_experience": "1",
+    "pronouns": ""
+  },
+  "target_titles": [
+    "Marketing Coordinator",
+    "Business Development Representative",
+    "Sales Development Representative",
+    "Digital Marketing Associate"
+  ],
+  "title_exclude_keywords": [
+    "senior",
+    "director",
+    "vp",
+    "head of",
+    "manager",
+    "staff",
+    "principal"
+  ],
+  "levels": [
+    "entry",
+    "associate"
+  ],
+  "career_stage": "early",
+  "locations": {
+    "metros": [
+      "Columbus, OH",
+      "Chicago, IL"
+    ],
+    "metro_aliases": [
+      "Columbus",
+      "Chicagoland"
+    ],
+    "remote": "us",
+    "current_city": "Columbus, OH",
+    "relocating_to": "Chicago, IL",
+    "relocation_clause_rule": "target_metro_only"
+  },
+  "comp_floor": {
+    "onsite_or_hybrid": 0,
+    "remote": 0,
+    "currency": "USD",
+    "basis": "base"
+  },
+  "excluded_companies": [
+    "Northfield Software"
+  ],
+  "dealbreaker_keywords": [
+    "commission only",
+    "100% commission",
+    "unpaid",
+    "door to door",
+    "multi-level"
+  ],
+  "cooldown_days": 7,
+  "cooldown_overrides": [],
+  "outreach_cooldown_days": 90,
+  "picks_per_day": 3,
+  "min_score": 6.5,
+  "freshness_days": 14,
+  "source_packs": [
+    "core",
+    "sales-marketing"
+  ],
+  "resume_variants": [],
+  "extra_sources": [],
+  "direct_career_pages": [],
+  "application_email": "jordan.ellis@example.com",
+  "gmail_account": "jordan.ellis@example.com",
+  "networking": {
+    "enabled": true,
+    "home_city": "Columbus, OH",
+    "virtual_ok": true
+  },
+  "work_authorization": "US citizen, no sponsorship needed",
+  "models": {
+    "search": "sonnet",
+    "recon": "sonnet",
+    "prefill": "sonnet",
+    "builder": "inherit",
+    "draft": "inherit"
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Alex Rivera",
+  "contact": [
+    "Springfield, IL",
+    "555-0142",
+    "alex.rivera@example.com",
+    "linkedin.com/in/alex-rivera-example"
+  ],
+  "summary": "Senior Software Engineer with 8+ years building and operating backend services in Python and Go. Led the design of an event-driven order platform handling 12M requests per day, mentored five engineers, and cut cloud spend by 31% through targeted performance work. Comfortable owning a system from design review through on-call.",
+  "sections": [
+    {
+      "type": "skills",
+      "title": "Skills",
+      "items": [
+        {
+          "label": "Languages",
+          "value": "Python (primary), Go, TypeScript, SQL, Bash"
+        },
+        {
+          "label": "Services & APIs",
+          "value": "REST, gRPC, GraphQL, Kafka, event-driven architecture, microservices"
+        },
+        {
+          "label": "Infrastructure",
+          "value": "AWS (ECS, Lambda, SQS, RDS), Kubernetes, Terraform, GitHub Actions, Datadog"
+        },
+        {
+          "label": "Data",
+          "value": "PostgreSQL, Redis, DynamoDB, Elasticsearch, dbt"
+        },
+        {
+          "label": "Practices",
+          "value": "System design, code review, mentoring, observability, incident response, agile delivery"
+        }
+      ]
+    },
+    {
+      "type": "experience",
+      "title": "Experience",
+      "employers": [
+        {
+          "company": "Brightwater Logistics",
+          "location": "Chicago, IL",
+          "roles": [
+            {
+              "title": "Senior Software Engineer",
+              "dates": "Mar 2022-Present",
+              "bullets": [
+                "Designed an event-driven order orchestration service on Kafka and Go that processes 12M requests per day with 99.95% availability.",
+                "Cut monthly cloud spend by 31% (about $240K a year) by right-sizing workloads, adding caching, and removing a redundant data pipeline.",
+                "Led a four-engineer migration of a legacy monolith module to gRPC services with zero customer-facing downtime.",
+                "Mentored five engineers and ran the team's design review process, reducing production incidents tied to design gaps by 40%.",
+                "Defined service-level objectives and alerting for 14 services, replacing noisy pager rules and reducing after-hours pages by 55%.",
+                "Drove adoption of a shared Go service template used by nine teams, cutting new service setup from two weeks to two days.",
+                "Partnered with finance and operations to model peak-season load, then load-tested the platform to 3x expected traffic before launch.",
+                "Wrote the internal guide on safe schema migrations and zero-downtime deploys, now the standard reference for backend engineers across the company.",
+                "Evaluated build-versus-buy options for the notification platform and recommended a managed service, avoiding roughly six engineer-months of work."
+              ]
+            },
+            {
+              "title": "Software Engineer II",
+              "dates": "Jun 2019-Feb 2022",
+              "bullets": [
+                "Built the carrier rate-shopping API in Python and FastAPI, trimming median response time from 900 ms to 210 ms.",
+                "Introduced contract testing across six services, catching breaking changes before release and halving rollback frequency.",
+                "Owned the on-call runbook rewrite, cutting mean time to resolve incidents from 52 to 28 minutes.",
+                "Implemented idempotent webhook delivery with retries and dead-letter queues, eliminating duplicate shipment notifications.",
+                "Migrated the reporting database to a read replica and partitioned tables, dropping dashboard query times from 40 seconds to 3.",
+                "Interviewed 30+ candidates and onboarded four new hires with a structured first-90-days plan.",
+                "Added structured logging and distributed tracing to the order pipeline, making cross-service debugging practical for the whole team.",
+                "Built a feature flag system with gradual rollouts that let the team ship daily with confidence."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Lumen Retail Systems",
+          "location": "Madison, WI",
+          "roles": [
+            {
+              "title": "Software Engineer",
+              "dates": "Aug 2016-May 2019",
+              "bullets": [
+                "Developed inventory sync services in Python and PostgreSQL used by 400+ stores, replacing nightly batch jobs with near-real-time updates.",
+                "Automated release pipelines with GitHub Actions and Terraform, shrinking deploy time from 2 hours to 15 minutes.",
+                "Partnered with product and support teams to triage customer-reported defects, closing 90% within the agreed service level.",
+                "Built a Python tool that reconciled point-of-sale and warehouse counts, flagging discrepancies that saved an estimated $60K in shrinkage per year.",
+                "Introduced code review checklists and pair programming sessions, improving first-pass review approval rate from 55% to 80%.",
+                "Rebuilt the store-facing price update service to support promotional schedules, removing a weekly manual process for the merchandising team.",
+                "Reduced flaky test failures from 18% to under 2% by isolating shared fixtures and containerizing integration tests.",
+                "Presented quarterly architecture updates to engineering leadership and gathered feedback from store operations."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Cedar Labs",
+          "location": "Remote",
+          "roles": [
+            {
+              "title": "Software Engineer Intern",
+              "dates": "May 2015-Aug 2015",
+              "bullets": [
+                "Built an internal dashboard in React and Flask that surfaced build health for 30 engineers.",
+                "Added automated alerts for failed builds, which the team adopted as its default workflow."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "lines",
+      "title": "Education",
+      "lines": [
+        "B.S. Computer Science, Prairie State University, Springfield, IL, 2016 (GPA 3.7)"
+      ]
+    },
+    {
+      "type": "lines",
+      "title": "Certifications",
+      "lines": [
+        "AWS Certified Solutions Architect, Associate (2023)",
+        "HashiCorp Certified: Terraform Associate (2022)"
+      ]
+    }
+  ]
+}

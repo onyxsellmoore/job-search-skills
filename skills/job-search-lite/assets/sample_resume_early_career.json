@@ -1,0 +1,134 @@
+{
+  "name": "Jordan Ellis",
+  "contact": [
+    "Columbus, OH",
+    "555-0177",
+    "jordan.ellis@example.com",
+    "linkedin.com/in/jordan-ellis-example"
+  ],
+  "summary": "Recent marketing graduate with two internships in B2B sales development and campaign coordination. Skilled at outbound prospecting, email campaigns, and turning engagement data into clear next steps. Seeking an entry-level BDR or marketing coordinator role.",
+  "sections": [
+    {
+      "type": "lines",
+      "title": "Education",
+      "lines": [
+        "B.S. Business Administration, Marketing, Lakeview State University, Columbus, OH, May 2026 (GPA 3.6, Dean's List)",
+        "Relevant coursework: Consumer Behavior, Digital Marketing Analytics, Professional Selling, Brand Strategy",
+        "Honors: Alpha Mu Alpha marketing honor society; Presidential Scholarship recipient (2022-2026)",
+        "Study abroad: Marketing in a Global Context, Valencia, Spain (Summer 2024)"
+      ]
+    },
+    {
+      "type": "experience",
+      "title": "Experience",
+      "employers": [
+        {
+          "company": "Northfield Software",
+          "location": "Columbus, OH",
+          "roles": [
+            {
+              "title": "Sales Development Intern",
+              "dates": "Jun 2025-Aug 2025",
+              "bullets": [
+                "Sent 60+ personalized outbound emails and calls per week to mid-market prospects, booking 18 qualified demos in 10 weeks.",
+                "Researched target accounts in HubSpot and LinkedIn Sales Navigator, building a list of 250 contacts adopted by the team.",
+                "Tested two subject-line variants and raised email reply rate from 4% to 7%.",
+                "Shadowed senior account executives on 25 discovery calls and wrote concise call notes that fed the weekly pipeline review.",
+                "Built a one-page objection-handling guide from rep feedback, now part of the onboarding packet for new interns.",
+                "Presented findings on lead-source quality to the sales director at the end of the internship.",
+                "Logged all activity in HubSpot with 100% accuracy, helping managers forecast the next quarter's pipeline."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Harbor Street Coffee Co.",
+          "location": "Columbus, OH",
+          "roles": [
+            {
+              "title": "Marketing Intern",
+              "dates": "Jan 2025-May 2025",
+              "bullets": [
+                "Planned and scheduled 40+ Instagram and email posts, growing the email list by 22% in one semester.",
+                "Tracked campaign results in Google Analytics and summarized weekly findings for the owner.",
+                "Coordinated a spring loyalty promotion that lifted repeat visits by 15%.",
+                "Wrote product descriptions and newsletter copy for a seasonal menu launch, contributing to a 12% rise in online orders.",
+                "Photographed and edited content for social channels, doubling average post engagement."
+              ]
+            }
+          ]
+        },
+        {
+          "company": "Lakeview State University Bookstore",
+          "location": "Columbus, OH",
+          "roles": [
+            {
+              "title": "Sales Associate",
+              "dates": "Aug 2022-Dec 2024",
+              "bullets": [
+                "Assisted 80+ customers per shift, consistently ranking in the top three for add-on sales such as accessories and bundles.",
+                "Trained five new hires on the point-of-sale system and returns process.",
+                "Helped plan the back-to-school promotion, which brought in a record week of sales for the store.",
+                "Recommended three display layouts for new inventory, one of which became the permanent front-of-store setup."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "entries",
+      "title": "Projects & Leadership",
+      "entries": [
+        {
+          "title": "Campus Marketing Club",
+          "dates": "Aug 2023-May 2026",
+          "subtitle": "Vice President of Partnerships",
+          "bullets": [
+            "Secured sponsorships from 6 local businesses worth $4,500 for the annual student pitch competition.",
+            "Led a team of 8 members to run a 3-week social campaign that drew 350 attendees to the final event.",
+            "Redesigned the club's recruiting flyer and Instagram presence, growing membership from 22 to 41 students."
+          ]
+        },
+        {
+          "title": "Capstone: Go-to-Market Plan for a Local Fitness Startup",
+          "dates": "Spring 2026",
+          "subtitle": "Team of four, graded A",
+          "bullets": [
+            "Built a launch plan covering positioning, pricing, and a 90-day outreach calendar, presented to a panel of industry mentors.",
+            "Conducted 20 customer interviews and a survey of 150 local residents to size the target market.",
+            "Built a financial model projecting break-even in month 14, praised by the faculty advisor for clarity."
+          ]
+        },
+        {
+          "title": "Volunteer Fundraising Lead, Community Food Pantry",
+          "dates": "Sep 2023-May 2025",
+          "subtitle": "Student volunteer program",
+          "bullets": [
+            "Wrote outreach emails to 120 local businesses and raised $3,200 for the winter food drive.",
+            "Tracked donors and follow-ups in a shared spreadsheet, achieving a 35% repeat-donor rate.",
+            "Organized two volunteer drive days with 30 participants each."
+          ]
+        }
+      ]
+    },
+    {
+      "type": "skills",
+      "title": "Skills",
+      "items": [
+        {
+          "label": "Tools",
+          "value": "HubSpot, Salesforce (Trailhead certified), Google Analytics, Canva, Mailchimp, Excel"
+        },
+        {
+          "label": "Marketing",
+          "value": "Email campaigns, social media, A/B testing, content calendars, lead research"
+        },
+        {
+          "label": "Languages",
+          "value": "English (native), Spanish (conversational)"
+        }
+      ]
+    }
+  ]
+}

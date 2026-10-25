@@ -1,0 +1,14 @@
+{
+  "_note": "Optional. Fill only if you want forms answered for you. Answer accurately; never default to decline. Never shared or echoed in chat.",
+  "race_ethnicity": "<your answer>",
+  "gender": "<your answer>",
+  "veteran_status": "<your answer>",
+  "disability_status": "<your answer>",
+  "hispanic_latino": "<your answer>",
+  "sexual_orientation": "<your answer>",
+  "transgender": "<your answer>",
+  "pronouns": "<your answer>",
+  "other_fields": {
+    "<field name>": "<your answer>"
+  }
+}
