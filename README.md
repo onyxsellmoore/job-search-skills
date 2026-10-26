@@ -1,4 +1,4 @@
-# Job search skills for Claude
+# AI Job search skill 
 
 Claude finds jobs that fit you, tailors your resume for each one, writes your application answers, and drafts a note to someone at the company.
 
@@ -6,18 +6,17 @@ Claude finds jobs that fit you, tailors your resume for each one, writes your ap
 
 ## Why I built this
 
-A job search is a marathon, not a sprint. The hard part isn't any single application. It's showing up every day for months when most applications get silence back.
+A job search is a marathon, not a sprint. The hard part isn't finding one specific company or finding one role whre you fit. It's continuing to apply and apply even when all you usually hear is silence.
 
 I used this skill on 85 different days over five months. That added up to 91 applications, and it got me a job.
 
-Some days I had energy and some days I didn't. Either way, typing **run job search** was enough to keep moving. Claude did the searching, tailoring, and drafting, so my part took about 10 minutes: review it and click Submit. Small, steady progress every day adds up.
+Sometimes it uses the full usage and you need to retry a bit (I'm on the Claude PRO plan) but keep running it and you'll see results.
 
 ## Which one should I use?
 
 - **Lite**: start here. Works on the **free** Claude plan, right in your web browser.
 - **Full**: for people with a **paid** Claude plan who use the Claude desktop app or Claude Code. It does more: it browses job sites and LinkedIn in your Chrome browser, and pre-fills application forms.
 
-Pick one, not both.
 
 ## Set up Lite (about 10 minutes)
 
