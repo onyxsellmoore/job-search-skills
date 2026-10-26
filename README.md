@@ -1,4 +1,4 @@
-# AI Job search skill 
+# AI Job search skill
 
 Claude finds jobs that fit you, tailors your resume for each one, writes your application answers, and drafts a note to someone at the company.
 
@@ -6,7 +6,7 @@ Claude finds jobs that fit you, tailors your resume for each one, writes your ap
 
 ## Why I built this
 
-A job search is a marathon, not a sprint. The hard part isn't finding one specific company or finding one role whre you fit. It's continuing to apply and apply even when all you usually hear is silence.
+A job search is a marathon, not a sprint. The hard part isn't finding one specific company or finding one role where you fit. It's continuing to apply and apply even when all you usually hear is silence.
 
 I used this skill on 85 different days over five months. That added up to 91 applications, and it got me a job.
 
