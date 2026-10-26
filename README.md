@@ -4,6 +4,14 @@ Claude finds jobs that fit you, tailors your resume for each one, writes your ap
 
 **It never applies or sends anything for you.** You review everything and click Submit or Send yourself.
 
+## Why I built this
+
+A job search is a marathon, not a sprint. The hard part isn't any single application. It's showing up every day for months when most applications get silence back.
+
+I used this skill on 85 different days over five months. That added up to 91 applications, and it got me a job.
+
+Some days I had energy and some days I didn't. Either way, typing **run job search** was enough to keep moving. Claude did the searching, tailoring, and drafting, so my part took about 10 minutes: review it and click Submit. Small, steady progress every day adds up.
+
 ## Which one should I use?
 
 - **Lite**: start here. Works on the **free** Claude plan, right in your web browser.
