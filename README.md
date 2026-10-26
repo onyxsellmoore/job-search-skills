@@ -12,6 +12,12 @@ I used this skill on 85 different days over five months. That added up to 91 app
 
 Sometimes it uses the full usage and you need to retry a bit (I'm on the Claude PRO plan) but keep running it and you'll see results.
 
+## What it does (and doesn't) do
+
+This skill gets you the first step: applications out the door and, eventually, that first interview. After that, it's on you.
+
+AI can still help you prepare. Ask Claude to research the company, run a mock interview with you, or help you think through an offer. Showing up and landing the job is your part.
+
 ## Which one should I use?
 
 - **Lite**: start here. Works on the **free** Claude plan, right in your web browser.
